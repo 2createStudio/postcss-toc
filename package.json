@@ -1,0 +1,18 @@
+{
+  "name": "postcss-toc",
+  "version": "1.0.0",
+  "description": "Generate table of contents for your stylesheets",
+  "main": "index.js",
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "table",
+    "contents",
+    "toc"
+  ],
+  "author": "2createStudio",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.2.17"
+  }
+}
